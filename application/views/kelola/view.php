@@ -86,7 +86,7 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="<?php base_url()?>Verifikasi">
+                <a class="nav-link" href="<?= base_url('index.php/Verifikasi/index')?>">
                     <i class="fas fa-fw fa-table"></i>
                     Verifikasi  Registrasi User</a>
             </li>
